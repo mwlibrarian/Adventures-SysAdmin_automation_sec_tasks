@@ -12,7 +12,7 @@ Exploring how environments (physical, cloud, or hybrid setups) are created and c
 
 - **Environment Setup:**  Using RDP via PowerShell cmdlets the SysAdmin VM remotely connects to the FariyLand VM and the DwarvesLand VM.   
 
-- [Process Steps](https://github.com/mwlibrarian/
+- [Process Steps](ProcessSteps.md)
 
 # Results
 Not a success in the ability to fully realize the intent for this project. However, it was a deeply interesting opportunity to explore areas in Windows (areas within the Windows Security settings, Firewall settings, lesser known areas beneath the surface of the Control Panel settings) and Ubuntu (exploration of WSL in Windows to use a Linux distro), plus a lot closer look at ports and ip addressing while attempting methods for connecting remotely. Therefore, the absolute end result was a good learning experience with plenty of "food for thought" and questions to spur more learning adventures for System Administration tasks specifically those for securing virtual environments.
